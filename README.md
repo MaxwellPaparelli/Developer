@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dev.jpg" >
+  <img src="dev2.png" >
 </p>
 
 # Maxwell Avila Paparelli
