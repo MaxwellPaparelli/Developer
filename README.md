@@ -1,2 +1,5 @@
-# Developer
-Repositório destinado a meu portfolio em desenvolvimento Backend e Frontend 
+<p align="center">
+  <img src="dev.jpeg" >
+</p>
+
+# Maxwell Avila Paparelli
