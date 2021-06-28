@@ -5,7 +5,7 @@
 # Maxwell Avila Paparelli
 
 
-* Aqui você encontra os meus projetos na área de Desenvolvimento Fullstack utilizando ferramentas como Java e Angular.
+* Aqui você encontra os meus projetos na área de Desenvolvimento Full-Stack utilizando ferramentas como Java e Angular.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/maxwell-avila-paparelli-69201b135)
