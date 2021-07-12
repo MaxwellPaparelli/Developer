@@ -14,6 +14,8 @@
 
 ## Projetos:
 
+## Artigos:
+
 ## Sobre mim:
 De forma geral sou apaixonado e tenho muito orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
 
